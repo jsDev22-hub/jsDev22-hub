@@ -1,15 +1,15 @@
-[**jsDev22-hub/README.md**](https://github.com/your-username/jsDev22-hub/blob/main/README.md
+[**jsDev22-hub/README.md**](https://github.com/your-username/jsDev22-hub/blob/main/README.md)
 
-# Joe Dominguez
+# Joe Dominguez                                            ![image](https://github.com/user-attachments/assets/be376924-7dd4-43e4-870d-7e805ec9c4ae)
+
+
+------------------------------------------------------------------------------------------------------
 
 ## 🎓 Education 🎓
 
 | Course                                          | School                          | Year Graduated   |
 |-------------------------------------------------|---------------------------------|------------------|
 | Bachelor of Science in Information Technology  | New Era University              | 2020 - Present   |
-
-
-## 🧾 Certificates 🧾
 
 ## 🧾 Certificates 🧾
 
