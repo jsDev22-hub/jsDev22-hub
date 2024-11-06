@@ -1,6 +1,7 @@
 [**jsDev22-hub/README.md**](https://github.com/your-username/jsDev22-hub/blob/main/README.md)
 
-# Joe Dominguez                                            ![image](https://github.com/user-attachments/assets/be376924-7dd4-43e4-870d-7e805ec9c4ae)
+# Joe Dominguez                                            ![image](https://github.com/user-attachments/assets/e813fa07-6d03-4cab-98c1-ad710ae6cd59 alt="GitHub Logo" width="50"/)
+
 
 
 ------------------------------------------------------------------------------------------------------
