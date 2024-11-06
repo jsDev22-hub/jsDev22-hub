@@ -1,8 +1,6 @@
 [**jsDev22-hub/README.md**](https://github.com/your-username/jsDev22-hub/blob/main/README.md)
 
-# Joe Dominguez                ![neu](https://github.com/user-attachments/assets/8688b30e-03ca-48e6-974c-4d26c6dee0ed)
-
-
+# Joe Dominguez               ![neu](https://github.com/user-attachments/assets/601e85fa-ac69-46da-ac91-368ee08c9d35)
 ------------------------------------------------------------------------------------------------------
 
 ## 🎓 Education 🎓
