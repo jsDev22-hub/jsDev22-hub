@@ -2,11 +2,6 @@
 
 # Joe Dominguez               
 
-<div style="display: flex; align-items: center;">
-  <h1 style="margin-right: 20px;">Joe Dominguez</h1>
-![neu](https://github.com/user-attachments/assets/862a772a-4908-4ebd-8294-760fbc9793f1) 
-</div>
-
 ------------------------------------------------------------------------------------------------------
 
 ## 🎓 Education 🎓
