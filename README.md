@@ -1,6 +1,6 @@
 [**jsDev22-hub/README.md**](https://github.com/your-username/jsDev22-hub/blob/main/README.md)
 
-# Joe Dominguez                                                                                                                                                        ![neu](https://github.com/user-attachments/assets/862a772a-4908-4ebd-8294-760fbc9793f1)
+# Joe Dominguez               ![neu](https://github.com/user-attachments/assets/862a772a-4908-4ebd-8294-760fbc9793f1)
 
 
 ------------------------------------------------------------------------------------------------------
