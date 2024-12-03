@@ -15,7 +15,7 @@
 | Course                              | Issued by         | Date completed  |
 |-------------------------------------|-------------------|------------------|
 | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/c595c8d931b14d28b74b6610c3a889eb) | IBM Cognitive Class | November 7, 2024 |
-| Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate ![Oracle Cloud Certification Badge](https://github.com/jsDev22-hub/jsDev22-hub/blob/main/Become%20an%20Oracle%20Cloud%20Infrastructure%20Data%20Foundations%20Associate%20(2024).jpg) | Oracle | December 2024 |
+[Become an Oracle Cloud Infrastructure Data Foundations Associate (2024)](https://github.com/jsDev22-hub/jsDev22-hub/blob/main/Become%20an%20Oracle%20Cloud%20Infrastructure%20Data%20Foundations%20Associate%20(2024).jpg) | Oracle | December 3, 2024
 ## 🧾 Certificates 🧾
 
 
