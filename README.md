@@ -9,9 +9,6 @@
 | Course                                          | School                          | Year Graduated   |
 |-------------------------------------------------|---------------------------------|------------------|
 | Bachelor of Science in Information Technology  | New Era University              | 2020 - Present   |
-
-## 🧾 Certificates 🧾
-
 | Course                              | Issued by         | Date completed  |
 |-------------------------------------|-------------------|------------------|
 | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/c595c8d931b14d28b74b6610c3a889eb) | IBM Cognitive Class | November 7, 2024 |
