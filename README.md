@@ -16,7 +16,6 @@
 |-------------------------------------|-------------------|------------------|
 | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/c595c8d931b14d28b74b6610c3a889eb) | IBM Cognitive Class | November 7, 2024 |
 ## 🧾 Certificates 🧾
-[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/c595c8d931b14d28b74b6610c3a889eb) | IBM Cognitive Class | November 7, 2024 | | Oracle Cloud Infrastructure 2024 Data Certified Foundations Associate ![Oracle Cloud Certification Badge](URL_OF_YOUR_IMAGE) | Oracle | December 2024 |
 
 
 
