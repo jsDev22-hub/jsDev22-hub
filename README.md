@@ -13,7 +13,9 @@
 > | Course                              | Issued by         | Date completed  |
 > |-------------------------------------|-------------------|-----------------|
 > | [SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/c595c8d931b14d28b74b6610c3a889eb) | IBM Cognitive Class | November 7, 2024 |
+> > | [Become an Oracle Cloud Data Management Foundations Associate (2024)(https://catalog-education.oracle.com/ords/certview/sharebadge?id=39972FAF6668367EEF76D0CC81063D273905BED7055EEBE301CAB6E7D241B791&fbclid=IwY2xjawHJvhxleHRuA2FlbQIxMQABHfStKNPyUqLz7tExsgpd9t3pZSLiGyCP1Jrh7EY-YfriGiOcDCk2-Z_E0Q_aem_Xs6zoa-LGa--XoAaib7OMQ) | Oracle University | December 11, 2024]
 > | [Oracle Cloud Infrastructure Foundations Associate (2024)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=39972FAF6668367EEF76D0CC81063D273905BED7055EEBE301CAB6E7D241B791&fbclid=IwY2xjawHJrv5leHRuA2FlbQIxMQABHdZvFoaSkis2pLUkaKH_EztX0xSuosgkJv4n4l-k-ArTIB8tf7pwOgSkbw_aem_SN5okf82spcv7m9-7kznBw) | Oracle University | December 3, 2024 |
+
 
 ## 🛠 Skillsets | Language and Tools 🛠
 
